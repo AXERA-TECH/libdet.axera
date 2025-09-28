@@ -1,0 +1,3 @@
+build*
+.vscode
+pydet/__pycache__
