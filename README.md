@@ -33,9 +33,10 @@ sudo apt install libopencv-dev build-essential
 ---
 
 ## Get Model
-[YOLOv8](https://huggingface.co/AXERA-TECH/YOLOv8)
-[YOLO11](https://huggingface.co/AXERA-TECH/YOLO11)
-[YOLO11 Pose](https://huggingface.co/AXERA-TECH/YOLO11-Pose)
+
+- [YOLOv8](https://huggingface.co/AXERA-TECH/YOLOv8)
+- [YOLO11](https://huggingface.co/AXERA-TECH/YOLO11)
+- [YOLO11 Pose](https://huggingface.co/AXERA-TECH/YOLO11-Pose)
 
 ## Usage Example
 ### YoloV8
